@@ -1,0 +1,5 @@
+hostname;device_type;ip;username;password
+nxos-1;cisco_nxos;192.168.181.21;admin;cisco
+nxos-2;cisco_nxos;192.168.181.22;admin;cisco
+nxos-3;cisco_nxos;192.168.181.23;admin;cisco
+nxos-4;cisco_nxos;192.168.181.24;admin;cisco
